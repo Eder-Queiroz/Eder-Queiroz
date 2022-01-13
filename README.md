@@ -10,4 +10,5 @@ Olá, sou Eder Queiroz!
 - 💬 Pode me perguntar qualer coisa sobre HTML e CSS
 - 📫 Pode me encontrar no twitter -> @EderQueir0z
 - 😄 Pronounomes: ele/dele
+- 🎵 Gosto muito de pagode e sertanejo
 <!-- - ⚡ Fato engraçado:  -->
