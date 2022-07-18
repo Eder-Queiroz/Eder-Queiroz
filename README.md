@@ -11,10 +11,10 @@ No meu tempo livre estudo programação e finanças pessoais, atualmente estou e
 ## Detalhes ✨
 
 - **Nome:** Eder Queiroz.
-- **Idade:** 17 anos.
+- **Idade:** 18 anos.
 - **Mora em:** Uberaba, MG - Brasil.
 - **Sabe:** HTML, CSS, JavaScript e PHP.
-- **Universidade:** Cursando 1º ano de engenharia de computação na Uniube.
+- **Universidade:** Cursando 1º ano de engenharia de computação na IFTM.
 - **Pronome:** Ele/dele.
 
 ## Você pode me encontrar em 🔍
