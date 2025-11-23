@@ -14,5 +14,6 @@ No meu tempo livre estudo programação e finanças pessoais, atualmente estou e
 - **Idade:** 20 anos.
 - **Mora em:** Uberaba, MG - Brasil.
 - **Sabe:** HTML, CSS, JavaScript e Java.
-- **Universidade:** Cursando 3º ano de engenharia de computação na IFTM.
+- **Universidade:** Cursando 4º ano de engenharia de computação na IFTM.
 - **Pronome:** Ele/dele.
+
